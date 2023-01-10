@@ -1,0 +1,27 @@
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\appsettings.Development.json
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\appsettings.json
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\Sales System.exe
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\Sales System.deps.json
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\Sales System.runtimeconfig.json
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\Sales System.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\ref\Sales System.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\Sales System.pdb
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.csproj.AssemblyReference.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.GeneratedMSBuildEditorConfig.editorconfig
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.AssemblyInfoInputs.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.AssemblyInfo.cs
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.csproj.CoreCompileInputs.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.MvcApplicationPartsAssemblyInfo.cs
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.MvcApplicationPartsAssemblyInfo.cache
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\staticwebassets.build.json
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\staticwebassets.development.json
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\scopedcss\bundle\Sales System.styles.css
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.csproj.CopyComplete
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\ref\Sales System.dll
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.pdb
+D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\Sales System\Sales System\obj\Debug\net6.0\Sales System.genruntimeconfig.cache
