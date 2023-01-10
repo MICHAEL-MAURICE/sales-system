@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\Sales System\\Sales System\\Sales System.csproj": {}
+    "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales System\\Sales System.csproj": {}
   },
   "projects": {
-    "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\Sales System\\Sales System\\Sales System.csproj": {
+    "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales System\\Sales System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\Sales System\\Sales System\\Sales System.csproj",
+        "projectUniqueName": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales System\\Sales System.csproj",
         "projectName": "Sales System",
-        "projectPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\Sales System\\Sales System\\Sales System.csproj",
+        "projectPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales System\\Sales System.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\Sales System\\Sales System\\obj\\",
+        "outputPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

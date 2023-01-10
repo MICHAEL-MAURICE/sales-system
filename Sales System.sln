@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales System", "Sales System\Sales System.csproj", "{C908792A-2F6E-4F59-9425-7AF270DF69A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales System", "Sales System\Sales System.csproj", "{C908792A-2F6E-4F59-9425-7AF270DF69A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales-systemCore", "Sales-systemCore\Sales-systemCore.csproj", "{A49A7402-8BDB-4A83-AB13-65D049C0164B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales-system-db", "Sales-system-db\Sales-system-db.csproj", "{823C10DE-8180-480F-9315-D740D1528F05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C908792A-2F6E-4F59-9425-7AF270DF69A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C908792A-2F6E-4F59-9425-7AF270DF69A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C908792A-2F6E-4F59-9425-7AF270DF69A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49A7402-8BDB-4A83-AB13-65D049C0164B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49A7402-8BDB-4A83-AB13-65D049C0164B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49A7402-8BDB-4A83-AB13-65D049C0164B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49A7402-8BDB-4A83-AB13-65D049C0164B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823C10DE-8180-480F-9315-D740D1528F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823C10DE-8180-480F-9315-D740D1528F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823C10DE-8180-480F-9315-D740D1528F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823C10DE-8180-480F-9315-D740D1528F05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

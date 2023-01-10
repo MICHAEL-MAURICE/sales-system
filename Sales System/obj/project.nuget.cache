@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HsBIOKWHsNvNaLcUy6PWw8iDm7CSeNKNr5lY+Vrb5Pzv7vsmZek0JsnjM1Kl6TjcW+w7jwsxj33/clfI913c2A==",
+  "dgSpecHash": "rZV3kEHVS0t4vulzTyQOhWnZK08nk8aDa5WcsxFlB6JXAymZ7gwivm5Mkz1iQJbzbwEHnpyLzm4TqkbYjFAEKQ==",
   "success": true,
-  "projectFilePath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\Sales System\\Sales System\\Sales System.csproj",
+  "projectFilePath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales System\\Sales System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
