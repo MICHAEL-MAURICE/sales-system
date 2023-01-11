@@ -5,7 +5,17 @@
       "ProjectGuid": "c908792a-2f6e-4f59-9425-7af270df69a8",
       "DisplayName": "Sales System",
       "ColorIndex": 0
+    },
+    "a49a7402-8bdb-4a83-ab13-65d049c0164b": {
+      "ProjectGuid": "a49a7402-8bdb-4a83-ab13-65d049c0164b",
+      "DisplayName": "Sales-systemCore",
+      "ColorIndex": 1
+    },
+    "823c10de-8180-480f-9315-d740d1528f05": {
+      "ProjectGuid": "823c10de-8180-480f-9315-d740d1528f05",
+      "DisplayName": "Sales-system-db",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

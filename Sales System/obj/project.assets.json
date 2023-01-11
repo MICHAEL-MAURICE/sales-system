@@ -1026,18 +1026,6 @@
           "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Tools/6.0.1": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "6.0.1"
-        },
-        "compile": {
-          "lib/net6.0/_._": {}
-        },
-        "runtime": {
-          "lib/net6.0/_._": {}
-        }
-      },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
@@ -3181,6 +3169,37 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Sales-system-db/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.1",
+          "Sales-systemCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sales-system-db.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sales-system-db.dll": {}
+        }
+      },
+      "Sales-systemCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.1",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.1",
+          "Microsoft.EntityFrameworkCore": "6.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.1",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Sales-systemCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sales-systemCore.dll": {}
+        }
       }
     }
   },
@@ -4360,30 +4379,6 @@
         "lib/net6.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
         "microsoft.entityframeworkcore.sqlserver.6.0.1.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
-      ]
-    },
-    "Microsoft.EntityFrameworkCore.Tools/6.0.1": {
-      "sha512": "jXhlTOcFct3U9YiH9KNfjIHzEPxjXgH7hiriWoZJ0PtT9/GGeWHu9Dblb5D441X+91EMqx7jbpKHNMIu6mvz5w==",
-      "type": "package",
-      "path": "microsoft.entityframeworkcore.tools/6.0.1",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "lib/net6.0/_._",
-        "microsoft.entityframeworkcore.tools.6.0.1.nupkg.sha512",
-        "microsoft.entityframeworkcore.tools.nuspec",
-        "tools/EntityFrameworkCore.PS2.psd1",
-        "tools/EntityFrameworkCore.PS2.psm1",
-        "tools/EntityFrameworkCore.psd1",
-        "tools/EntityFrameworkCore.psm1",
-        "tools/about_EntityFrameworkCore.help.txt",
-        "tools/init.ps1",
-        "tools/net461/any/ef.exe",
-        "tools/net461/win-x86/ef.exe",
-        "tools/netcoreapp2.0/any/ef.dll",
-        "tools/netcoreapp2.0/any/ef.runtimeconfig.json"
       ]
     },
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
@@ -9845,17 +9840,24 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Sales-system-db/1.0.0": {
+      "type": "project",
+      "path": "../Sales-system-db/Sales-system-db.csproj",
+      "msbuildProject": "../Sales-system-db/Sales-system-db.csproj"
+    },
+    "Sales-systemCore/1.0.0": {
+      "type": "project",
+      "path": "../Sales-systemCore/Sales-systemCore.csproj",
+      "msbuildProject": "../Sales-systemCore/Sales-systemCore.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.1",
-      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.1",
-      "Microsoft.EntityFrameworkCore >= 6.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.1",
-      "Microsoft.EntityFrameworkCore.Tools >= 6.0.1",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.1",
+      "Sales-system-db >= 1.0.0",
+      "Sales-systemCore >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3",
       "System.IdentityModel.Tokens.Jwt >= 6.25.1"
     ]
@@ -9888,7 +9890,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-system-db\\Sales-system-db.csproj": {
+              "projectPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-system-db\\Sales-system-db.csproj"
+            },
+            "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj": {
+              "projectPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -9901,18 +9910,6 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": {
-            "target": "Package",
-            "version": "[6.0.1, )"
-          },
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[6.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[6.0.1, )"
-          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
@@ -9920,16 +9917,6 @@
             "version": "[6.0.1, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "[6.0.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.Tools": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[6.0.1, )"
-          },
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[6.0.1, )"
           },

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rZV3kEHVS0t4vulzTyQOhWnZK08nk8aDa5WcsxFlB6JXAymZ7gwivm5Mkz1iQJbzbwEHnpyLzm4TqkbYjFAEKQ==",
+  "dgSpecHash": "1Ruzscii7PwoJCI2klBs95pEl5hM+XbGsGu8jMTw689envWZBYuvLxu+OO8yaD1nYV6oPm/rvegbGWl6J/VSRQ==",
   "success": true,
   "projectFilePath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales System\\Sales System.csproj",
   "expectedPackageFiles": [
@@ -43,7 +43,6 @@
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.1\\microsoft.entityframeworkcore.design.6.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.1\\microsoft.entityframeworkcore.relational.6.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.1\\microsoft.entityframeworkcore.sqlserver.6.0.1.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.1\\microsoft.entityframeworkcore.tools.6.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
