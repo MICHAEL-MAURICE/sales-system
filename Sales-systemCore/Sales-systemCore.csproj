@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="Mapping\" />
+    <Folder Include="Returns\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -25,3 +25,4 @@ D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.dll
 D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\ref\Sales-systemCore.dll
 D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.pdb
 D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.genruntimeconfig.cache
+D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.csproj.AssemblyReference.cache

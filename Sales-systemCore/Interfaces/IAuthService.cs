@@ -10,6 +10,8 @@ namespace Sales_systemCore.Interfaces
     public interface IAuthService
     {
         Task<AuthDto> RegisterAsync(RegisterDto model);
+        Task<AuthDto> GetTokenAsync(TokenRequestDto model);
+        Task<string> AddRoleAsync(AddRoleDto model);
 
     }
 }
