@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qFfhTdrOmApe6ZE7wm8Xwd1q9Sp/Vg1fzIgOylrX1KPaFYMvkP0oX4FLXuBfcPEK7eSMe40ncvmVj2vTalMlzQ==",
+  "dgSpecHash": "ARr2HFq3XBgwiur1ggkhLxnOQhHci2fJ9Qgwp0w9GXPmSqtvoxejaji6AKsO2EKejI9DBuIthtY/Y2nWieUlpA==",
   "success": true,
-  "projectFilePath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj",
+  "projectFilePath": "D:\\final\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
@@ -32,7 +33,7 @@
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.codeanalysis.visualbasic.workspaces\\4.0.0\\microsoft.codeanalysis.visualbasic.workspaces.4.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.0.0\\microsoft.codeanalysis.workspaces.common.4.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.codeanalysis.workspaces.msbuild\\4.0.0\\microsoft.codeanalysis.workspaces.msbuild.4.0.0.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.diasymreader\\1.3.0\\microsoft.diasymreader.1.3.0.nupkg.sha512",

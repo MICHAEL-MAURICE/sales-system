@@ -12,3 +12,16 @@ D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\sales-syste
 D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\sales-system\Sales-systemCore\obj\Debug\net6.0\ref\Sales-systemCore.dll
 D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.pdb
 D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.genruntimeconfig.cache
+D:\final\sales-system\Sales-systemCore\bin\Debug\net6.0\Sales-systemCore.deps.json
+D:\final\sales-system\Sales-systemCore\bin\Debug\net6.0\Sales-systemCore.runtimeconfig.json
+D:\final\sales-system\Sales-systemCore\bin\Debug\net6.0\Sales-systemCore.dll
+D:\final\sales-system\Sales-systemCore\bin\Debug\net6.0\ref\Sales-systemCore.dll
+D:\final\sales-system\Sales-systemCore\bin\Debug\net6.0\Sales-systemCore.pdb
+D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.AssemblyInfoInputs.cache
+D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.AssemblyInfo.cs
+D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.csproj.CoreCompileInputs.cache
+D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.dll
+D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\ref\Sales-systemCore.dll
+D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.pdb
+D:\final\sales-system\Sales-systemCore\obj\Debug\net6.0\Sales-systemCore.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-system-db\\Sales-system-db.csproj": {}
+    "D:\\final\\sales-system\\Sales-system-db\\Sales-system-db.csproj": {}
   },
   "projects": {
-    "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-system-db\\Sales-system-db.csproj": {
+    "D:\\final\\sales-system\\Sales-system-db\\Sales-system-db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-system-db\\Sales-system-db.csproj",
+        "projectUniqueName": "D:\\final\\sales-system\\Sales-system-db\\Sales-system-db.csproj",
         "projectName": "Sales-system-db",
-        "projectPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-system-db\\Sales-system-db.csproj",
+        "projectPath": "D:\\final\\sales-system\\Sales-system-db\\Sales-system-db.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-system-db\\obj\\",
+        "outputPath": "D:\\final\\sales-system\\Sales-system-db\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,8 +30,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj": {
-                "projectPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj"
+              "D:\\final\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj": {
+                "projectPath": "D:\\final\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj"
               }
             }
           }
@@ -46,6 +46,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.1, )"
@@ -70,14 +74,14 @@
         }
       }
     },
-    "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj": {
+    "D:\\final\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj",
+        "projectUniqueName": "D:\\final\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj",
         "projectName": "Sales-systemCore",
-        "projectPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj",
+        "projectPath": "D:\\final\\sales-system\\Sales-systemCore\\Sales-systemCore.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\\Final Projects\\reelpro\\sales-system\\Sales-systemCore\\obj\\",
+        "outputPath": "D:\\final\\sales-system\\Sales-systemCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,6 +112,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[6.0.1, )"

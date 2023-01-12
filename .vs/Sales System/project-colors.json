@@ -15,6 +15,11 @@
       "ProjectGuid": "823c10de-8180-480f-9315-d740d1528f05",
       "DisplayName": "Sales-system-db",
       "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 3

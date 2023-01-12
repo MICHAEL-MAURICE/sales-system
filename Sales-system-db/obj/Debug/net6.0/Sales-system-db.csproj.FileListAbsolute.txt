@@ -13,3 +13,18 @@ D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\sales-syste
 D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\sales-system\Sales-system-db\obj\Debug\net6.0\Sales-system-db.dll
 D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\sales-system\Sales-system-db\obj\Debug\net6.0\ref\Sales-system-db.dll
 D:\itiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii\Final Projects\reelpro\sales-system\Sales-system-db\obj\Debug\net6.0\Sales-system-db.pdb
+D:\final\sales-system\Sales-system-db\bin\Debug\net6.0\Sales-system-db.deps.json
+D:\final\sales-system\Sales-system-db\bin\Debug\net6.0\Sales-system-db.dll
+D:\final\sales-system\Sales-system-db\bin\Debug\net6.0\ref\Sales-system-db.dll
+D:\final\sales-system\Sales-system-db\bin\Debug\net6.0\Sales-system-db.pdb
+D:\final\sales-system\Sales-system-db\bin\Debug\net6.0\Sales-systemCore.dll
+D:\final\sales-system\Sales-system-db\bin\Debug\net6.0\Sales-systemCore.pdb
+D:\final\sales-system\Sales-system-db\obj\Debug\net6.0\Sales-system-db.csproj.AssemblyReference.cache
+D:\final\sales-system\Sales-system-db\obj\Debug\net6.0\Sales-system-db.GeneratedMSBuildEditorConfig.editorconfig
+D:\final\sales-system\Sales-system-db\obj\Debug\net6.0\Sales-system-db.AssemblyInfoInputs.cache
+D:\final\sales-system\Sales-system-db\obj\Debug\net6.0\Sales-system-db.AssemblyInfo.cs
+D:\final\sales-system\Sales-system-db\obj\Debug\net6.0\Sales-system-db.csproj.CoreCompileInputs.cache
+D:\final\sales-system\Sales-system-db\obj\Debug\net6.0\Sales-system-db.csproj.CopyComplete
+D:\final\sales-system\Sales-system-db\obj\Debug\net6.0\Sales-system-db.dll
+D:\final\sales-system\Sales-system-db\obj\Debug\net6.0\ref\Sales-system-db.dll
+D:\final\sales-system\Sales-system-db\obj\Debug\net6.0\Sales-system-db.pdb
