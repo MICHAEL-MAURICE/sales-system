@@ -16,6 +16,6 @@ namespace Sales_systemCore.Models
         [Required, MaxLength(50)]
         public string LastName { get; set; }
 
-        public IEnumerable<RefreshToken>? RefreshTokens { get; set; }
+        public List<RefreshToken>? RefreshTokens { get; set; }
     }
 }
